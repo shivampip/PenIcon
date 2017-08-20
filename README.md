@@ -21,7 +21,8 @@ Note:- Antivirus may find it suspious. As it is executable file. Ignore it.
 
 ### How to use
 
-1. Open the application
+0. Download the file from [Release](https://github.com/shivam301296/PenIcon/releases) and Unzip it.
+1. Open the Penicon.jar
 2. Select drive whose icon has to be changed.
 3. Select the icon
 4. Done. 
