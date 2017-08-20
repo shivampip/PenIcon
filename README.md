@@ -1,11 +1,12 @@
 # PenIcon
-An amazing software for Changing Your Pendrive Icon developed in Java using Netbeans
+An amazing software for Changing Your Pendrive Icon developed in Java using Netbeans. 
+Release is with GUI. but source code contains only logic.
 
-![Screenshotaa](/src/Screenshot_5.png)
+![Screenshotaa](/PenIcon/Screenshot_6.png)
 
 ## Getting Started
 
-Just clone the repository in Netbeans. or downoad zip file and open it in Netbeans.
+Just Downoad zip file and open it in any file editor.
 
 ### Prerequisites
 
@@ -21,15 +22,15 @@ Note:- Antivirus may find it suspious. As it is executable file. Ignore it.
 ### How to use
 
 1. Open the application
-2. Enter message to be sent.
-3. Enter messaging rate (msg/sec)
-4. Select Message area (Select that text area where you want your message to be automatically written and sent.)
-5. Start Crushing
+2. Select drive whose icon has to be changed.
+3. Select the icon
+4. Done. 
+5. Restart your computer to see the change.
 6. Enjoy...
 
 ## Built With
 
-* [Netbeans](https://netbeans.org/downloads/)
+* Notepad (Yes, simple Window's Notepad)
 
 ## Contributing
 
@@ -43,4 +44,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Inspiration
 
-* I tried to find any good automation project for bulk messaging. But I couldn't find except a lot of spams. So I decided to develop it. I searched for some automation classes in Java. I found Robot class. and then code....code...and code.....
+* It is one of my initial projects, I developed while learning Java.
