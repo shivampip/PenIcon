@@ -46,3 +46,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## Inspiration
 
 * It is one of my initial projects, I developed while learning Java.
+
+## License 
+
+* see [LICENSE](/LICENSE) file
